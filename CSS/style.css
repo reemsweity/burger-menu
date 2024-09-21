@@ -45,7 +45,7 @@ padding-bottom: 20px;
     font-style: normal;
 }
 .first{
-    background-image: url(assest/hero-bg.jpg);
+    background-image: url(/assest/hero-bg.jpg);
     background-size: 100% 100%;
     background-position: center;
     height: 700px;
